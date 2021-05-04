@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="hu">
+ <head>
+  <meta charset="UTF-8">
+ 
+  <title>Terepi műszerezés</title>
+ </head>
+ <body>
+  
+  <body style="background:#99FF99; background:url('kepek.jpg'); background-repeat:no repeat; background-position:center; background-attachment:fixed">
+
+  <body style="background:transparent; color:white; font-size:10pt; font-family:tahoma">
+
+  <br><br>
+
+  <p align="center"><font style="font-size:20pt"><b>Terepi műszerezés</b></font>
+
+  <br><br><br><br>
+
+ 
+  <img src='kepek/terepi.jpg' height="150" border="1px" alt="1" style="float:center">
+
+  <br><br><br>
+
+  <b>Tárgy tematikus leírása:</b><br>
+
+<br> szakirányos tárgy célja a folyamatipari, vegyipari műszerezés leggyakoribb mérési feladatinak ellátására alkalmas műszerek és beépítési módjuk megismerése. A műszerezéshez kapcsolódó ipari kommunikációs rendszerek megismerése.
+<br><br>
+<br><br>
+
+<a href="SemTaskWFFVET.html" style="float:center"> Vissza<br><br><br><br>
+
+<footer id="lablec" class="lablec">
+
+Forrás: <a href="https://gepesz.uni-miskolc.hu/adatlap.hu.php?i=1040" target="ujablak">
+https://gepesz.uni-miskolc.hu/adatlap.hu.php?i=1040
+  </a>
+
+ </body>
+</html>

@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="hu">
+ <head>
+  <meta charset="UTF-8">
+ 
+  <title>DCS-alapú folyamatirányítás</title>
+ </head>
+ <body>
+  
+  <body style="background:#99FF99; background:url('XD.jpg'); background-repeat:no repeat; background-position:center; background-attachment:fixed">
+
+  <body style="background:transparent; color:white; font-size:10pt; font-family:tahoma">
+
+  <br><br>
+
+  <p align="center"><font style="font-size:20pt"><b>DCS-alapú folyamatirányítás</b></font>
+
+  <br><br><br><br>
+
+ 
+
+  <img src="kepek/dcs1.png" height="150" border="1px" alt="1" style="float:center">
+
+  <br><br><br>
+
+  <b>Tárgy tematikus leírása:</b><br>
+
+<br>Folyamatirányító rendszerek felépítése, jellemzői. Az elosztott folyamatirányító rendszerek architektúrájának ismertetése, a SCADA és DCS struktúrák használatának tervezése és alkalmazási példák bemutatása. Ki és bementi eszközök csatlakoztatása. DCS rendszer felépítése, konfigurálása, vezérlő szoftver készítése, sémakép készítése, alarmkezelés, felhasználói menedzsment, trendkezelés, archiválás. Eszközmenedzsment, szelepdiagnosztika.
+<br><br>
+<br><br>
+
+<a href="SemTaskWFFVET.html" style="float:center"> Vissza<br><br><br><br>
+
+<footer id="lablec" class="lablec">
+
+Forrás: <a href="http://gepesz.uni-miskolc.hu/adatlap.hu.php?i=1037" target="ujablak">
+http://gepesz.uni-miskolc.hu/adatlap.hu.php?i=1037
+  </a>
+
+ </body>
+</html>

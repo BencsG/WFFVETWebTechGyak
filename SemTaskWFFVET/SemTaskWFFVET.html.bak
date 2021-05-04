@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="hu">
+ <head>
+  <meta charset="UTF-8">
+  
+  <title>Beadando</title>
+ </head>
+ <body> 
+
+	<style >
+	article, section, aside, nav, header, footer {display: block;}
+
+	.fejlec {
+	font-size: 18pt;
+	font-family: Helvetica;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	font-weight: bold;
+	}
+	.urlap {
+	padding: 30px;
+	font-size: 16px;
+	font-family: Helvetica;
+	background: #dfe3ea;
+	width: 500px;
+	height: 300px;
+	border-radius: 10px;
+	box-shadow: 5px 5px 10px #888888;
+	}
+	.lablec {
+	width: 560px;
+	font-size: 10pt;
+	margin-top: 40px;
+	border-top: 3px #888888 double;
+	padding-top: 30px;
+	text-align: right;
+	font-family: Helvetica;
+	}
+	</style>
+
+ </body>
+</html>
+
+	<header id="fejlec" class="fejlec">
+	Bencs Gábor WFFVET <div style="text-align:justify"><img src="kepek/me.jpg" height="150" border="1px" alt="1" style="float:right">
+	</header>
+
+	<section id="tartalom" class="urlap">
+
+	<form id="urlap" name="urlap">
+
+	<h4><p align="center">Kedvenc három tantárgyam egyetemi tanulmányaim során!</h4><br><br>
+
+	<h2><p align="center">Válassz egyet!</h2>
+
+	<body>
+		<p align="center">
+		<tr style="height=250px">
+		<td style="text-align:center">
+		<a href="DCS.html" target="keret">
+		<font style="color:#ff0000;text-decoration:none; font-family:tahoma; font-size:20pt">DCS</font></a></td>
+
+		<br><br>
+
+		<tr style="height=250px">
+		<td style="text-align:center">
+		<a href="terepi.html" target="keret">
+		<font style="color:#ff0000;text-decoration:none; font-family:tahoma; font-size:20pt">Terepi műszerezés</font></a></td>
+
+		<br><br>
+	
+		<tr style="height=250px">
+		<td style="text-align:center">
+		<a href="digit.html" target="keret">
+		<font style="color:#ff0000;text-decoration:0; font-family:tahoma; font-size:20pt">Digitális rendszerek I.</font></a></td>
+
+		</tr>
+		</td>
+		</tr>
+		</td>
+		</tr>
+		</table>
+		</p>
+		</div>
+		</form>
+		</div>
+		</body>
+		</html>
